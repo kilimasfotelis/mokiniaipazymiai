@@ -1,1 +1,2 @@
 C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe.config
+d:\Desktop\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe.config
