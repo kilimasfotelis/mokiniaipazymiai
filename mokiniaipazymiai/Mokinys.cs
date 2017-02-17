@@ -16,7 +16,7 @@ namespace mokiniaipazymiai
       pazymiai = new List<Pazimys>();
     }
     // : this() kreipiasi i tos pacios klases konstruktoriu, kurio argumentai () - tiesiog tusti, bazini konstruktoriu be parametru
-    public Mokinys (string vardas, string pavarde) : this()
+    public Mokinys(string vardas, string pavarde) : this()
     {
       Vardas = vardas;
       Pavarde = pavarde;
@@ -40,7 +40,7 @@ namespace mokiniaipazymiai
     //}
     public void MokiniuIsvedimas()
     {
-      
+
     }
 
   }
