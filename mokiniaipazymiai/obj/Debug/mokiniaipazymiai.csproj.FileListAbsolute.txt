@@ -1,6 +1,6 @@
-C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe.config
-<<<<<<< HEAD
 C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe.config
-=======
-d:\Desktop\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe.config
->>>>>>> 8e2e0b9d5b39279fa4929a26382cebd47fd1f582
+C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.exe
+C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\bin\Debug\mokiniaipazymiai.pdb
+C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\obj\Debug\mokiniaipazymiai.exe
+C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\obj\Debug\mokiniaipazymiai.pdb
+C:\Users\User\Desktop\mokiniaipazymiai\mokiniaipazymiai\obj\Debug\mokiniaipazymiai.csprojResolveAssemblyReference.cache

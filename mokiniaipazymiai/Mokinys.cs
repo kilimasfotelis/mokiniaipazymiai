@@ -10,10 +10,11 @@ namespace mokiniaipazymiai
   {
     public string Vardas;
     public string Pavarde;
-    public List<Pazimys> pazymiai;
+    //public List<Pazimys> pazymiai;
+    public Pazimys pazymiai { get; private set; }
     public Mokinys()
     {
-      pazymiai = new List<Pazimys>();
+      //pazymiai = new List<Pazimys>();
     }
     // : this() kreipiasi i tos pacios klases konstruktoriu, kurio argumentai () - tiesiog tusti, bazini konstruktoriu be parametru
     public Mokinys(string vardas, string pavarde) : this()
@@ -29,18 +30,19 @@ namespace mokiniaipazymiai
       Pavarde = Console.ReadLine();
       Console.WriteLine();
     }
-    //public void PazymiuPridejimas()
-    //{
-    // for (int i = 0; i < 4; i++)
-    //  {
-    //    Pazimys paz = new Pazimys();
-    //    paz.Ivedimas();
-    //    pazymiai.Add(paz);
-    //  }
-    //}
+    public void PazymiuPridejimas()
+    {
+      Pazimys paz = new Pazimys();
+      paz.Ivedimas();
+      pazymiai = paz;
+    }
+
     public void MokiniuIsvedimas()
     {
-
+      Console.WriteLine(Vardas + " " + Pavarde);
+      pazymiai.Info();
+     // pazymiai.VidurSkaiciav();
+      
     }
 
   }

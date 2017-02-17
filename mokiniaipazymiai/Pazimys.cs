@@ -46,8 +46,9 @@ namespace mokiniaipazymiai
         public void VidurSkaiciav()
         {
             Vidurkis = (double)(Matematika + Fizika + Geografija + Lietuviu) / 4;
+      Console.WriteLine("Vidurkis = " + Vidurkis);
         }
-
+     
 
     }
 }
