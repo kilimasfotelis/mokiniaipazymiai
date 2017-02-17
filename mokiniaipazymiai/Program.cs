@@ -10,6 +10,7 @@ namespace mokiniaipazymiai
   {
     static void Main(string[] args)
     {
+            Belekas
     }
   }
 }
